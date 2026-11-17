@@ -1,0 +1,6 @@
+{
+  "name": "VoxCraft",
+  "description": "3D procedural voxel sandbox with Creative, Survival, and Hardcore modes, offline solo worlds, online multiplayer, and biome portals.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
